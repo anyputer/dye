@@ -1,0 +1,15 @@
+[package]
+name = "dye"
+version = "0.0.0"
+authors = ["hyarsan"]
+edition = "2018"
+description = "A simple color crate. Reserved."
+documentation = "https://docs.rs/dye"
+homepage = "https://github.com/hyarsan/dye"
+repository = "https://github.com/hyarsan/dye.git"
+readme = "README.md"
+keywords = ["color", "colour", "rgb"]
+categories = ["data-structures", "embedded", "graphics", "no-std"]
+license = "MIT"
+
+[dependencies]
